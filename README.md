@@ -10,7 +10,7 @@ It's hacktober time!!🎉🎉🎁 The best month📆 of the year to polish your 
 🔶 Download [Git.](https://git-scm.com/downloads).  
 🔷 Fork this repository, clone a local copy of it in your pc.  
 🔶 Add a wallpaper , graphic, a meme , motivational quote or any other non-copyrighted and unobjectionable image or gif in their respective folder.  
-🔶Rename your file to match this format : `picname-yourname-picdimensions.filetype`. for eg *venom_design-ansh-1280x960.png* .(check [this link](https://knowledgebase.constantcontact.com/guides/KnowledgeBase/5616-determine-an-image-s-file-size-and-dimensions?lang=en_US) to find your image dimensions.)  
+🔶Rename your file to match this format : `picname-yourname-picdimensions.filetype`. for eg *venom_design-ansh-1280x960.png* .(check [this link](https://knowledgebase.constantcontact.com/guides/KnowledgeBase/5616-determine-an-image-s-file-size-and-dimensions?lang=en_US) to find your image dimensions)(it would be really beneficial ,if you try to keep the size of your picture below 1mb, but that's not a necessity).  
 🔷 Open command line in this folder and check the status of your files using the command `git status` .  
 🔶 Add all files using `git add .`  
 🔷 Commit your changes using `git commit -m "your message"`  
@@ -34,5 +34,5 @@ You are specifically restricted from all of the following:
 using this Website to engage in any advertising or marketing.
 
 Your Content
--Your Content must be your own and must not be invading any third-party's rights. The maintainer reserves the right to remove any of Your Content from this Repo at any time without prior notice .
+-Your Content must not be invading any third-party's rights. The maintainer reserves the right to remove any of Your Content from this Repo at any time without prior notice .
 ```
