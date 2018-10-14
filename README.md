@@ -17,7 +17,9 @@ It's hacktober time!!🎉🎉🎁 The best month📆 of the year to polish your 
 🔶 Push your changes to your fork using `git push -u origin master`  
 🔷 Make a `pull request` to add your changes in this repo.
 🔶 wait for it to be merged . Welcome to an Open Source world!⭐️✨  
-Still confused? learn more about github at[https://gi-...](https://github.com/firstcontributions/first-contributions)
+Still confused? learn more about github at [https://gi-...](https://github.com/firstcontributions/first-contributions)  
+
+If you liked this challange, do star this repository and share this repository's link with your fellow dev-mates 😁💯👌🏾.  
 
 
 ## Desclaimer
