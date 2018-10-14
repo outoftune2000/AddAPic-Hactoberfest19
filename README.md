@@ -10,7 +10,7 @@ It's hacktober time!!🎉🎉🎁 The best month📆 of the year to polish your 
 🔶 Download [Git.](https://git-scm.com/downloads).  
 🔷 Fork this repository, clone a local copy of it in your pc.  
 🔶 Add a wallpaper , graphic, a meme , motivational quote or any other non-copyrighted and unobjectionable image or gif in their respective folder.  
-🔶Rename your file to match this format : `picname-yourname-picdimensions.filetype`. for eg *venom_design-ansh-1280x960.png* .(check [this link](https://knowledgebase.constantcontact.com/guides/KnowledgeBase/5616-determine-an-image-s-file-size-and-dimensions?lang=en_US) to find your image dimensions.
+🔶Rename your file to match this format : `picname-yourname-picdimensions.filetype`. for eg *venom_design-ansh-1280x960.png* .(check [this link](https://knowledgebase.constantcontact.com/guides/KnowledgeBase/5616-determine-an-image-s-file-size-and-dimensions?lang=en_US) to find your image dimensions.)  
 🔷 Open command line in this folder and check the status of your files using the command `git status` .  
 🔶 Add all files using `git add .`  
 🔷 Commit your changes using `git commit -m "your message"`  
