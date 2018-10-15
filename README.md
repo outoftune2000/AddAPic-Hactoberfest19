@@ -22,7 +22,7 @@ Still confused? learn more about github at [https://gi-...](https://github.com/f
 If you liked this challange, do star this repository and share this repository's link with your fellow dev-mates 😁💯👌🏾.  
 
 
-## Desclaimer
+## Disclaimer
 ```
 This repo is  maintained  by github user @root-ansh  for the sole purpose of helping others to make contributions during the hacktoberfest festival .
 Restrictions
