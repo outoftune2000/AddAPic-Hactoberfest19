@@ -1,3 +1,5 @@
+**UPDATE 1/11/18** : Thankyou everyone for Contributing to this repo. Hacktoberfest is over now. meet you in next october!🎊🎊.  
+
 # Add a pic - hacktoberfest-2018! 🎆🎉🎊🎇🎇🎈🎈💯
 <P align=center>
 <img src="https://image.flaticon.com/icons/svg/1096/1096307.svg" width="250px" height="250px">    
