@@ -4,7 +4,7 @@
 
 **UPDATE 1/11/18** : Thankyou everyone for Contributing to this repo. Hacktoberfest is over now. meet you in next october!🎊🎊.  
 
-# Add a pic - hacktoberfest-2019! 🎆🎉🎊🎇🎇🎈🎈💯
+# Add a pic - hacktoberfest- ~~2018~~  2019! 🎆🎉🎊🎇🎇🎈🎈💯
 <P align=center>
 <img src="https://image.flaticon.com/icons/svg/1096/1096307.svg" width="250px" height="250px">    
 <img src="https://hacktoberfest.digitalocean.com/assets/logo-hacktoberfest-658b5aa2bd34e782d29c40bf6afbdff00f20fe1328efa6da17743878ba8db66f.png" width="250" height 250 /> 
