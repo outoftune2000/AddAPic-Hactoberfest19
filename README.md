@@ -1,3 +1,7 @@
+**UPDATE 1/10/19** : Hi everyone! #Hacktoberfest is back! grab your Boots and enter the party!!🎇🎈🎈💯
+#### Note🔴 : This repository has started growing in size and might cause inconvenience to people trying to download repo locally via the git command line. So I am setting a max image size which could be uploaded as 500Kb. Every contributer should consider this limit before making a PR🔴🔴🔴
+#### This is a heads up to old contributers that their uploaded files will be removed by October 7,2019 if they are more than 500Kb size. You might wanna download that content before its Deleted🔴🔴🔴
+
 **UPDATE 1/11/18** : Thankyou everyone for Contributing to this repo. Hacktoberfest is over now. meet you in next october!🎊🎊.  
 
 # Add a pic - hacktoberfest-2018! 🎆🎉🎊🎇🎇🎈🎈💯
