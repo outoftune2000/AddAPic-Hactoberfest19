@@ -10,7 +10,7 @@
 <img src="https://hacktoberfest.digitalocean.com/assets/logo-hacktoberfest-658b5aa2bd34e782d29c40bf6afbdff00f20fe1328efa6da17743878ba8db66f.png" width="250" height 250 /> 
 </P>
 
-It's hacktober time!!🎉🎉🎁 The best month📆 of the year to polish your Github skills and Open Source knowledge !⭐️⭐️⭐️ Contribute to open source by adding your favorite picture , wallpaper or logo in this awesome repository🎆🎆
+It's hacktober fest time!!🎉🎉🎁 The best month📆 of the year to polish your Github skills and Open Source knowledge !⭐️⭐️⭐️ Contribute to open source by adding your favorite picture , wallpaper or logo in this awesome repository🎆🎆
 
 ## Details
 🔶 Download [Git.](https://git-scm.com/downloads).  
